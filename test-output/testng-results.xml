@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-06T12:01:55 IST" name="Default suite" finished-at="2025-04-06T12:01:59 IST" duration-ms="3141">
+    <groups>
+    </groups>
+    <test started-at="2025-04-06T12:01:55 IST" name="Default test" finished-at="2025-04-06T12:01:59 IST" duration-ms="3141">
+      <class name="com.httpsRequests.HowToCreatePostRequests">
+        <test-method signature="postRequestUsingPOJO()[pri:0, instance:com.httpsRequests.HowToCreatePostRequests@77888435]" started-at="2025-04-06T12:01:55 IST" name="postRequestUsingPOJO" finished-at="2025-04-06T12:01:59 IST" duration-ms="3116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequestUsingPOJO -->
+      </class> <!-- com.httpsRequests.HowToCreatePostRequests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
